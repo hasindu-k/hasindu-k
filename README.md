@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Hasindu Koshitha
+Fast Learner willing to enter the Software Development Industry
 
 <!--
 **hasindu-k/hasindu-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
