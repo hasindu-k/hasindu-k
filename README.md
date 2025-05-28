@@ -33,7 +33,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,react,java,python,c,mongodb,express,firebase,flutter,figma,git,mysql,docker,boostrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,react,java,python,c,mongodb,express,firebase,flutter,figma,git,mysql,docker,bootstrap,tailwind" />
 </p>
 
 ---
