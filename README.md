@@ -33,7 +33,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,react,java,python,c,mongodb,express,firebase,flutter,figma,git,mysql,docker,bootstrap,tailwind,node" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,react,java,python,c,mongodb,express,firebase,flutter,figma,git,mysql,docker,bootstrap,tailwind,node,ubuntu" />
 </p>
 
 ---
@@ -60,3 +60,7 @@
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – *Martin Fowler*
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
+</p>
