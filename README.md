@@ -14,7 +14,7 @@
 - 🔭 I’m currently pursuing **3rd Year Software Engineering**
 - 🌱 I’m currently learning **Full Stack Development**
 - 👨‍💻 My portfolio: [hasindu-k.github.io/portfolio](https://hasindu-k.github.io/portfolio/)
-- 💬 Ask me about: **HTML, CSS, SQL, Java, C, Python**
+- 💬 Ask me about: **HTML, CSS, SQL, Java, Laravel, C, Python**
 - 📫 Reach me at: **koshithahasindu@gmail.com**
 
 ---
@@ -33,7 +33,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,react,java,python,c,mongodb,express,firebase,flutter,figma,git,mysql,docker,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,react,java,python,c,mongodb,express,firebase,flutter,figma,git,mysql,docker,bootstrap,tailwind,node" />
 </p>
 
 ---
