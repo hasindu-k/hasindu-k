@@ -2,7 +2,7 @@
 <h3 align="center">💻 A passionate Web Developer from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=3rd+Year+Software+Engineering+Undergraduate;Full+Stack+Development+Enthusiast;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineering+Undergraduate;Full+Stack+Development+Enthusiast;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center"> 
