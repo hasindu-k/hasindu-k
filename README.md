@@ -25,6 +25,7 @@
     <li><a href="https://linkedin.com/in/hasindu-k"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hasindu_k-blue?style=flat-square&logo=linkedin"></a></li>
     <li><a href="mailto:koshithahasindu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-koshithahasindu@gmail.com-blue?style=flat-square&logo=gmail"></a></li>
     <li><a href="https://web.facebook.com/hasindu.koshitha/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-hasindu.koshitha-blue?style=flat-square&logo=facebook"></a></li>
+    <li><a href="https://www.instagram.com/hasindu.koshitha"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-hasindu.koshitha-blue?style=flat-square&logo=instagram"></a></li>
   </ul>
 </p>
 
