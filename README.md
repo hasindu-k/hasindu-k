@@ -32,7 +32,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,node,express,laravel,python,java,c,mysql,mongodb,firebase,git,docker,flutter,figma,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,node,express,laravel,python,java,c,mysql,mongodb,firebase,git,github,docker,flutter,figma,ubuntu" />
 </p>
 
 ---
