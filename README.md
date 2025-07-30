@@ -50,7 +50,7 @@
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasindu-k&theme=default" alt="GitHub Streak" />
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hasindu's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=hasindu-k&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
 </p>
 
 ---
