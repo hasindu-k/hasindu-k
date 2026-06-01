@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hasindukoshitha.online-000000?style=flat-square&logo=vercel&logoColor=white)](https://hasindukoshitha.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hasindu--k-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasindu-k)
-[![HackerRank](https://img.shields.io/badge/HackerRank-hasindu--k-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/hasindu-k)
+[![HackerRank](https://img.shields.io/badge/HackerRank-hasindu--k-00EA64?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/hasindu_k)
 [![Email](https://img.shields.io/badge/Email-koshithahasindu%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:koshithahasindu@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hasindu-k&label=Profile%20Views&color=0e75b6&style=flat-square)
