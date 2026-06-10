@@ -112,3 +112,5 @@ Final-year Software Engineering undergraduate at SLIIT with a parallel B.Sc. at 
 — Martin Fowler
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&animation=fadeIn" width="100%"/>
+
